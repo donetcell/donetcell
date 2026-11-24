@@ -1,10 +1,2 @@
-# PCC DEPOK Prototype V1.1
-Responsive mobile-first HTML/CSS/JavaScript prototype.
-
-## Deployment to Cloudflare Pages
-- Framework preset: None
-- Build command: (leave empty)
-- Build output directory: `.`
-- Root directory: repository root
-
-Upload `index.html`, `style.css`, `app.js`, and `README.md` to the root of your GitHub repository.
+# PCC DEPOK Prototype V1.2
+Prototype frontend HTML/CSS/JS. Master Data Barang includes Excel import/export and downloadable Excel template. Excel functionality uses SheetJS CDN and requires internet connectivity. Data remains in browser localStorage only; not yet Supabase.
